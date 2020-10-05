@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>edu.geektime</OriginalElement>
+  <nodes>
+    <node x="0.0" y="79.0">edu.geektime.UIElement</node>
+    <node x="74.5" y="0.0">edu.geektime.Drawable</node>
+    <node x="0.0" y="153.0">edu.geektime.Main</node>
+    <node x="134.0" y="79.0">edu.geektime.UIContainer</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="edu.geektime.UIContainer" target="edu.geektime.Drawable">
+      <point x="0.0" y="-14.5" />
+      <point x="198.0" y="54.0" />
+      <point x="154.0" y="54.0" />
+      <point x="26.5" y="14.5" />
+    </edge>
+    <edge source="edu.geektime.UIElement" target="edu.geektime.Drawable">
+      <point x="0.0" y="-14.5" />
+      <point x="57.0" y="54.0" />
+      <point x="101.0" y="54.0" />
+      <point x="-26.5" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="131.0" y="91.0" />
+  <SelectedNodes>
+    <node>edu.geektime.UIContainer</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
