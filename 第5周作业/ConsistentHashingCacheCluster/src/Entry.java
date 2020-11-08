@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 public class Entry {
     private String key;
     private Object value;
